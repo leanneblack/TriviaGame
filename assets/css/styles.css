@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,700');
+
+
+.jumbotron{
+    background-image: url(../images/rusjumbotron.gif);
+    background-position: center;
+    width:auto;
+    height: 500px;
+    background-size: cover;
+}
+
+.jumbotron h1{
+    margin-top: 50px;
+    color:#fff;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+}
+
+.jumbotron h2{
+    font-family: 'Montserrat', sans-serif;
+    color:#fff;
+    letter-spacing: 1px;  
+}
+
+
+.question{
+    
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    margin:auto;
+   
+    
+}
+.choices{
+    font-weight: 200;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px; 
+}
+
+.instructions{
+    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    font-weight: 300;
+    width: 100%;
+    padding-right: 5%;   
+}
+
+.info{
+    margin-left: 40px;
+}
+
+
+.strong{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    font-weight: 700;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+}
+
+.timer{
+    text-align: left;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    text-transform: uppercase;
+   
+}
+
+.info{
+    padding-right: 40px;
+}
+
+.ron{
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    font-size: .8em;
+    text-transform: uppercase;
+}
+.next{
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    font-size: .8em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
